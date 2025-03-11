@@ -110,7 +110,7 @@ The final model is deployed on Heroku using Flask framework.
 
 # Author
 
-Upendra Kumar: https://www.linkedin.com/in/imupendra/
+Akash Gowda
 
 
 # Help Me Improve
